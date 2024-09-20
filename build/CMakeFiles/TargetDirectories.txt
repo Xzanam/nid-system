@@ -1,3 +1,0 @@
-/home/zanam/SemesterVII/MajorProject/nid_system/build/CMakeFiles/packet_capture.dir
-/home/zanam/SemesterVII/MajorProject/nid_system/build/CMakeFiles/edit_cache.dir
-/home/zanam/SemesterVII/MajorProject/nid_system/build/CMakeFiles/rebuild_cache.dir
