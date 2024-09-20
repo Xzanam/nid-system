@@ -1,0 +1,198 @@
+Classification Report for Threshold 0.10:
+              precision    recall  f1-score   support
+
+           0       0.97      0.55      0.70     12764
+           1       0.62      0.98      0.76      9711
+
+    accuracy                           0.74     22475
+   macro avg       0.80      0.77      0.73     22475
+weighted avg       0.82      0.74      0.73     22475
+
+==================================================
+Classification Report for Threshold 0.15:
+              precision    recall  f1-score   support
+
+           0       0.97      0.56      0.71     12764
+           1       0.63      0.98      0.77      9711
+
+    accuracy                           0.74     22475
+   macro avg       0.80      0.77      0.74     22475
+weighted avg       0.82      0.74      0.74     22475
+
+==================================================
+Classification Report for Threshold 0.20:
+              precision    recall  f1-score   support
+
+           0       0.97      0.57      0.72     12764
+           1       0.63      0.98      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.80      0.77      0.74     22475
+weighted avg       0.83      0.75      0.74     22475
+
+==================================================
+Classification Report for Threshold 0.25:
+              precision    recall  f1-score   support
+
+           0       0.97      0.58      0.72     12764
+           1       0.64      0.98      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.80      0.78      0.75     22475
+weighted avg       0.83      0.75      0.74     22475
+
+==================================================
+Classification Report for Threshold 0.30:
+              precision    recall  f1-score   support
+
+           0       0.96      0.58      0.73     12764
+           1       0.64      0.97      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.80      0.78      0.75     22475
+weighted avg       0.82      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.35:
+              precision    recall  f1-score   support
+
+           0       0.96      0.59      0.73     12764
+           1       0.64      0.97      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.80      0.78      0.75     22475
+weighted avg       0.82      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.40:
+              precision    recall  f1-score   support
+
+           0       0.95      0.59      0.73     12764
+           1       0.64      0.96      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.80      0.78      0.75     22475
+weighted avg       0.82      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.45:
+              precision    recall  f1-score   support
+
+           0       0.94      0.60      0.73     12764
+           1       0.64      0.95      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.79      0.77      0.75     22475
+weighted avg       0.81      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.50:
+              precision    recall  f1-score   support
+
+           0       0.94      0.60      0.73     12764
+           1       0.65      0.95      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.79      0.78      0.75     22475
+weighted avg       0.81      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.55:
+              precision    recall  f1-score   support
+
+           0       0.93      0.61      0.74     12764
+           1       0.65      0.94      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.79      0.78      0.75     22475
+weighted avg       0.81      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.60:
+              precision    recall  f1-score   support
+
+           0       0.93      0.61      0.74     12764
+           1       0.65      0.94      0.77      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.79      0.78      0.75     22475
+weighted avg       0.81      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.65:
+              precision    recall  f1-score   support
+
+           0       0.92      0.62      0.74     12764
+           1       0.65      0.93      0.77      9711
+
+    accuracy                           0.76     22475
+   macro avg       0.79      0.78      0.76     22475
+weighted avg       0.81      0.76      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.70:
+              precision    recall  f1-score   support
+
+           0       0.92      0.63      0.74     12764
+           1       0.65      0.92      0.76      9711
+
+    accuracy                           0.75     22475
+   macro avg       0.78      0.77      0.75     22475
+weighted avg       0.80      0.75      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.75:
+              precision    recall  f1-score   support
+
+           0       0.91      0.63      0.75     12764
+           1       0.66      0.92      0.77      9711
+
+    accuracy                           0.76     22475
+   macro avg       0.78      0.78      0.76     22475
+weighted avg       0.80      0.76      0.75     22475
+
+==================================================
+Classification Report for Threshold 0.80:
+              precision    recall  f1-score   support
+
+           0       0.91      0.65      0.76     12764
+           1       0.66      0.92      0.77      9711
+
+    accuracy                           0.76     22475
+   macro avg       0.79      0.78      0.76     22475
+weighted avg       0.81      0.76      0.76     22475
+
+==================================================
+Classification Report for Threshold 0.85:
+              precision    recall  f1-score   support
+
+           0       0.91      0.66      0.77     12764
+           1       0.67      0.92      0.78      9711
+
+    accuracy                           0.77     22475
+   macro avg       0.79      0.79      0.77     22475
+weighted avg       0.81      0.77      0.77     22475
+
+==================================================
+Classification Report for Threshold 0.90:
+              precision    recall  f1-score   support
+
+           0       0.91      0.68      0.78     12764
+           1       0.69      0.91      0.79      9711
+
+    accuracy                           0.78     22475
+   macro avg       0.80      0.80      0.78     22475
+weighted avg       0.82      0.78      0.78     22475
+
+==================================================
+Classification Report for Threshold 0.95:
+              precision    recall  f1-score   support
+
+           0       0.91      0.72      0.81     12764
+           1       0.71      0.90      0.80      9711
+
+    accuracy                           0.80     22475
+   macro avg       0.81      0.81      0.80     22475
+weighted avg       0.82      0.80      0.80     22475
+
+==================================================
